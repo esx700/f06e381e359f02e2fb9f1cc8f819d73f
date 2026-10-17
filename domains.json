@@ -1,8 +1,9 @@
 {
   "appId": 271,
   "domains": [
-    "https://d3pwd137ql21v4.cloudfront.net"
+    "https://d3pwd137ql21v4.cloudfront.net",
+    "https://dp2l1bztx8f43.cloudfront.net"
   ],
   "healthPath": "/api/v1/health",
-  "updatedAt": "2026-10-16T07:45:59.436Z"
+  "updatedAt": "2026-10-17T07:21:12.466Z"
 }
